@@ -38,6 +38,7 @@
 | desktop                | window manager     | Fenstermanager<br>Fensterverwaltung                               |
 | manage files & folders | file manager       | Dateimanager<br>Dateiverwaltung                                   |
 | manage files & folders | trash              | Papierkorb<br>Mülleimer                                           |
+| manage files & folders | item               | Element                                                           |
 | network                | network manager    | Netzwerkmanager<br>Netzwerkverwaltung                             |
 | network                | Wi-Fi              | WLAN<br>Wi-Fi                                                     |
 | network                | airplane mode      | Flugmodus<br>Flugzeugmodus                                        |
