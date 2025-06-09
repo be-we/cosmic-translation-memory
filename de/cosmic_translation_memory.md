@@ -24,7 +24,7 @@ _The preferred German translation is shown in bold._
 | navigation             | home               | **Startseite**                                                    |
 | file path              | link               | **Verknüpfung**                                                   |
 | URL                    | link               | **Link**                                                          |
-| time                   | time               | **Zeit**<br>Uhrzeit                                               |
+| time                   | time               | Zeit<br>**Uhrzeit**                                               |
 | audio                  | sound              | **Klang**<br>Sound                                                |
 | archive                | to extract         | **entpacken**<br>extrahieren<br>dekomprimieren                    |
 | terminal               | command            | **Befehl**<br>Kommando                                            |
