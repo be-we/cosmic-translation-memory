@@ -9,6 +9,10 @@ _The preferred German translation is shown in bold._
 | GUI element            | control            | Steuerelement<br>Bedienelement                                    |
 | GUI element            | tab                | **Tab**<br>Registerkarte                                          |
 | GUI                    | theme              | **Thema**<br>Theme<br>Design                                      |
+| setting                | to activate        | aktivieren<br>einschalten                                         |
+| setting                | to enable          | aktivieren<br>einschalten                                         |
+| setting                | to deactivate      | deaktivieren<br>ausschalten                                       |
+| setting                | to disable         | deaktivieren<br>ausschalten                                       |
 | power supply           | battery            | **Akku**<br>Batterie                                              |
 | energy consumption     | power              | **Energie**                                                       |
 | power on/off           | power              | **Ein/Aus**                                                       |
@@ -19,13 +23,13 @@ _The preferred German translation is shown in bold._
 | view                   | to zoom out        | Herauszoomen<br>Wegzoomen<br>Verkleinern                          |
 | input                  | shortcut           | Tastenkombination<br>Tastenkürzel                                 |
 | input                  | touchpad           | **Touchpad**<br>Tastfeld                                          |
-| input                  | cursor             | **Cursor**                                                        |
+| input                  | cursor             | **Cursor**<br>Eingabemarke                                        |
 | input                  | scrolling          | **Scrollen**<br>Bildlauf                                          |
 | navigation             | home               | **Startseite**                                                    |
 | file path              | link               | **Verknüpfung**                                                   |
 | URL                    | link               | **Link**                                                          |
 | time                   | time               | Zeit<br>**Uhrzeit**                                               |
-| audio                  | sound              | **Klang**<br>Sound                                                |
+| audio                  | sound              | Sound<br>Klang                                                    |
 | archive                | to extract         | **entpacken**<br>extrahieren<br>dekomprimieren                    |
 | terminal               | command            | **Befehl**<br>Kommando                                            |
 | operations             | operation          | **Vorgang**<br>Operation                                          |
@@ -33,7 +37,10 @@ _The preferred German translation is shown in bold._
 | version control        | to (un)stage       | (nicht) vormerken                                                 |
 | version control        | commit             | **Commit**                                                        |
 | accessibility          | accessibility      | **Barrierefreiheit**<br>Zugänglichkeit                            |
-| accessibility          | magnifier          | Lupe<br>Bildschirmlupe                                            |
+| accessibility          | magnifier          | Lupe<br>Bildschirmlupe<br>Vergrößerungsglas                       |
+| accessibility          | screen reader      | Bildschirmleser<br>Screenreader                                   |
+| accessibility          | vision             | Sehkraft<br>Sehen                                                 |
+| color                  | to invert          | invertieren<br>umkehren                                           |
 | desktop                | Desktop            | **Desktop**<br>Schreibtisch                                       |
 | desktop                | workspace          | Arbeitsfläche<br>Arbeitsbereich                                   |
 | desktop                | slideshow          | Diashow<br>Diaschau                                               |
@@ -50,7 +57,6 @@ _The preferred German translation is shown in bold._
 | cable                  | to unplug          | abstecken<br>ausstecken                                           |
 | cable                  | to plug in         | einstecken<br>anstecken                                           |
 | device                 | monitor            | **Monitor**                                                       |
-| device                 | display            | **Bildschirm**                                                    |
+| device                 | display            | Bildschirm<br>Display                                             |
 | device                 | laptop             | **Laptop**<br>Notebook                                            |
-
-   
+| networking             | account            | Konto<br>Account                                                  |
