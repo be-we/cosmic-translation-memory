@@ -1,4 +1,4 @@
-# COSMIC English → German translation memory
+# German translation memory for desktop environments
 
 **Please note:** The superscript letters do not belong to the translation, but indicate which other desktop environments
 or operating systems use this translation.
